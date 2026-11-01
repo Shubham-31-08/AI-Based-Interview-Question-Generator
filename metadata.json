@@ -1,0 +1,6 @@
+{
+  "name": "Project P_112: AI-Based Interview Question Generator",
+  "description": "Role-specific interview questions and detailed evaluation rubric generator powered by Google Gemini SDK and Streamlit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

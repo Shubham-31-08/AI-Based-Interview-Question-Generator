@@ -1,0 +1,4 @@
+# Project P_112: AI-Based Interview Question Generator
+streamlit>=1.38.0
+google-genai>=0.1.1
+python-dotenv>=1.0.1
